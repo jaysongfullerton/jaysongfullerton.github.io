@@ -7,7 +7,7 @@ Hello I am a computer science major at CSUF and I plab to graduate in the year 2
 
 * Lab 6, part 1
 
-  I really enjoyed this lab because we learned how to use command lines to create a sandwich of our liking. In this lab it taught me how to use command lines and versatile they could be. As soon as I     got the hang of how command lines work it was really beneficial because we would use them later on in different labs.
+  I really enjoyed this lab because we learned how to use command lines to create a sandwich of our liking. In this lab it taught me how to use command lines and versatile they could be. As soon as I got the hang of how command lines work it was really beneficial because we would use them later on in different labs.
 
 * Lab 4, part 1 
 
