@@ -1,7 +1,9 @@
 
 # Jayson Gonzales's Portfolio
 
-Hello I am a computer science major at CSUF and I plab to graduate in the year 2028.
+Hello I am a computer science major at CSUF and I plan to graduate in the year 2028.
+
+My GitHub page is https://github.com/jaysongfullerton
 
 ## Favorite CPSC 120L Labs
 
